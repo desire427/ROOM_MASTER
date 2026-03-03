@@ -1,5 +1,3 @@
-# Fichier pour ignorer les fichiers et dossiers non désirés dans Git
-
 .env
 __pycache__/
 *.pyc
